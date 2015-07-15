@@ -72,7 +72,7 @@ careers.
 
 Always be building! Make stuff and put it on GitHub.  Prospective employers
 will want to see that you can get stuff done. Your GitHub account will probably
-be the most important part of your application to any programming job. I tell
+be the most important part of your application for any programming job. I tell
 my students that their GitHub account is their resume.
 
 ## Entreprenuership
