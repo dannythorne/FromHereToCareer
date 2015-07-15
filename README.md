@@ -45,7 +45,7 @@ freeCodeCamp
 [https://www.thinkful.com/bootcamps/](https://www.thinkful.com/bootcamps/)
 
 Expensive and intensive but generally run in assocation with employers who want
-to hire the graduates immediately.
+to hire the graduates.
 
 ### College
 
