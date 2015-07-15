@@ -75,6 +75,6 @@ will want to see that you can get stuff done. Your GitHub account will probably
 be the most important part of your application for any programming job. I tell
 my students that their GitHub account is their resume.
 
-## Entreprenuership
+## Entrepreneurship
 
 TODO
