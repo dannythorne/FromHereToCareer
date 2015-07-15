@@ -4,8 +4,6 @@
 Notes about pursuing a career in computing.
 For students of Rural Up! Code Academy courses.
 
-
-
 ## Careers
 
 Lots of information about computing
@@ -16,10 +14,7 @@ and the Association of Computing Machinery.
 
 [http://computingcareers.acm.org/](http://computingcareers.acm.org/)
 
-
-
 ## Education
-
 
 ### Online
 
@@ -44,15 +39,12 @@ edX
 freeCodeCamp
 [http://www.freecodecamp.com/](http://www.freecodecamp.com/)
 
-
-
 ### Bootcamps
 
 [https://www.thinkful.com/bootcamps/](https://www.thinkful.com/bootcamps/)
 
 Expensive and intensive but generally run in assocation with employers who want
 to hire the graduates.
-
 
 ### College
 
@@ -65,8 +57,6 @@ many fields in the 21st century and will likely improve
 your marketability even outside of traditional computing
 careers.
 
-
-
 ## Networking/Marketing
 
 ### LinkedIn
@@ -77,16 +67,12 @@ careers.
 
 [http://www.github.com](http://www.github.com)
 
-
-
 ## Make Stuff
 
 Always be building! Make stuff and put it on GitHub.  Prospective employers
 will want to see that you can get stuff done. Your GitHub account will probably
 be the most important part of your application for any programming job. I tell
 my students that their GitHub account is their resume.
-
-
 
 ## Entrepreneurship
 
