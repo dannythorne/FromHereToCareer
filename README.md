@@ -39,7 +39,6 @@ edX
 freeCodeCamp
 [http://www.freecodecamp.com/](http://www.freecodecamp.com/)
 
-
 ### Bootcamps
 
 [https://www.thinkful.com/bootcamps/](https://www.thinkful.com/bootcamps/)
