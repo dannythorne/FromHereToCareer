@@ -49,7 +49,7 @@ to hire the graduates immediately.
 
 ### College
 
-Best prep for pusuing a computer science degree in college:
+Best prep for pursuing a computer science degree in college:
 take as much mathematics as possible -- and love it!
 
 If computer science is not your primary interest, at least
