@@ -76,4 +76,15 @@ my students that their GitHub account is their resume.
 
 ## Entrepreneurship
 
-TODO
+Starting your own technology company is easier than it's ever been before, but that means 
+it's easier for everyone else, too. Think about what really sets you apart. Do 
+you have special insight into an opportunity, or problem that needs to be 
+solved? What are you the more passionate about than anyone else? What can you 
+become the best in the world at?
+
+One thing that all entrepreneurial teams do well is sales. You don't have a business until you have customers. If you're not great at sales, recruit someone who is to join your team. Who do you know who can convince their parents or teachers to do something fun? Who can get people to show up to a party or school event? These take the same skills as selling your product to customers.
+
+Some great resources to learn more about launching a startup company:
+- Attend a [Startup Weekend](http://startupweekend.org) in a city near you
+- Apply for the [Kentucky Governor's School for Entrepreneurs (GSE)](http://www.kentuckygse.com/)
+- Use [Lean Startup principles](https://en.wikipedia.org/wiki/Lean_startup) to test your idea
