@@ -2,7 +2,9 @@
 # From Here To Career
 
 Notes about pursuing a career in computing.
-For students of Rural Up! Code Academy courses.
+For students of
+[Rural Up! Code Academy](http://www.ruralup.org/)
+courses.
 
 ## Careers
 
